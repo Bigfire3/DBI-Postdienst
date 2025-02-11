@@ -51,6 +51,11 @@ Work in Progress
 
 **Auswertung der in OSM eingetragenen Daten mittels bereitgestellten Python Packages**
 
+Total distance: 1483.14 meters, Travel Time : 14.831437280396823 minutes with TSP 
+Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926744, 12545926730, 12545926741, 12545926731, 3989756446]
+
+Total distance: 1701.9393416177559 meters without TSP
+
 ## 5. Resultat
 
 ### Haupterkenntnisse
