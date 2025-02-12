@@ -98,7 +98,7 @@
 
     -> Eintragung dieser Daten in OSM und festhalten durch Bilder
 
-![Zugang TO 7a unten](/Img/Zugang-Teilobjekt-7a-unten.jpg "Bordsteing am Eingang des Teilobjektes 7a (unten).")
+![Zugang TO 7a unten](../Img/Zugang-Teilobjekt-7a-unten.jpg "Bordsteing am Eingang des Teilobjektes 7a (unten).")
 
 ## 4. Datenauswertung
 
