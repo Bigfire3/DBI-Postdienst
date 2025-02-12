@@ -12,7 +12,7 @@
 
 
 <figure>
-    <h3 style="color: black; font-size: 20px;text-align: center;">Kürzeste Routen zu allen erreichbaren Eingängen</h3>
+    <h3 style="color: black; font-size: 20px;text-align: center;">Angewante Methoden zur Planung</h3>
     <img src="https://architektur-wispler.de/wp-content/uploads/2014/09/Planung.jpg" width="800" height="800">
 </figure>
 
