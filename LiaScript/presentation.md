@@ -110,7 +110,7 @@ Gewerbepark.withStyle: <iframe src="[https://github.com/Bigfire3/DBI-Postdienst/
 
 **Auswertung der in OSM eingetragenen Daten mittels bereitgestellten Python Packages**
 
-Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme.
+Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 
 `import: https://github.com/Bigfire3/DBI-Postdienst/edit/main/LiaScript/presentation.md `
 
@@ -118,18 +118,17 @@ Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme
 
 <!-- "Kürzeste Routen zu allen Eingängen" -->
 <img src="../Img/Routing_to_all_entrances.png" width="800" height="800">
-
+- Routing zu allen neu gemappten Eingängen 
 <!-- "Kürzeste Routen zu allen erreichbaren Eingängen" -->
 <img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
-- Total distance: 1701.9393416177559 meters without TSP
+- kürzesten Wege von Poststation zu allen barrierefreien Eingängen
+- insgesamte Weglänge: 1702 Meter
 
 <!--"Kürzeste Routen zu den bereits Verfügbaren Eingängen" -->
 <img src="../Img/Optimized_TSP.png" width="800" height="800">
-
-
-- Total distance: 1483.14 meters
-- Travel Time : 14.831437280396823 minutes with TSP
-- Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926744, 12545926730, 12545926741, 12545926731, 3989756446]
+- kürzeste Route mit allen Eingängen 
+- Weglänge: 1483 Meter
+- Benötigte Zeit (mit 6 km/h): 15 Minuten 
 
 <!--"Erreichbarkeit in 30s Abständen von der Poststelle"-->
 <img src="../Img/isochrones.png" width="800" height="800">
