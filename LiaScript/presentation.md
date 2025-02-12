@@ -127,6 +127,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
     <figcaption>Kürzeste Routen zu allen Eingängen</figcaption>
 </figure>
 
+
 * Routing zu allen neu gemappten Eingängen 
 
 ---
@@ -135,6 +136,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
     <img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
     <figcaption>Kürzeste Routen zu allen erreichbaren Eingängen</figcaption>
 </figure>
+
 
 * kürzesten Wege von Poststation zu allen barrierefreien Eingängen
 * insgesamte Weglänge: 1702 Meter
@@ -146,13 +148,13 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
     <figcaption>Kürzeste Route über alle erreichbaren Eingängen</figcaption>
 </figure>
 
+
 * kürzeste Route mit allen barrierefreien Eingängen 
 * Weglänge: 1483 Meter
 * Benötigte Zeit (mit 6 km/h): 15 Minuten
 
 ---
 <!--"Erreichbarkeit in 30s Abständen von der Poststelle"-->
-<img src="../Img/isochrones.png" width="800" height="800">
 <figure>
     <img src="../Img/isochrones.png" width="800" height="800">
     <figcaption>Erreichbarkeit in 30s Abständen von der Poststelle</figcaption>
