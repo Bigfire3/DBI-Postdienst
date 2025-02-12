@@ -1,14 +1,9 @@
-# Automatisierter Postdienst auf dem Gelände der DBI
+# Machbarkeitsstudie zur Automatisierung des Postdienstes auf dem Gelände der DBI
 
 ---
 
-## 1. Forschungsfrage
 
-**Willkommen zu dieser Präsentation zur Einführbarkeit eines automatisierten Postdienstes auf dem Gelände des Deutschen Brennstoff Institutes (DBI), unter Betücksichtigung der vorliegenden Gegebenheiten.**
-
----
-
-## 2. Planung
+## 1. Planung
 
 ### Methodik
 
@@ -38,7 +33,7 @@
 
     * Planbarkeit für weiteres Vorgehen
 
-## 3. Datensammlung
+## 2. Datensammlung
 
 ### Interviews 
 
@@ -100,7 +95,7 @@
 
 ![Zugang TO 7a unten](../Img/Zugang-Teilobjekt-7a-unten.jpg "Bordsteing am Eingang des Teilobjektes 7a (unten).")
 
-## 4. Datenauswertung
+## 3. Datenauswertung
 
 **Auswertung der in OSM eingetragenen Daten mittels bereitgestellten Python Packages**
 
@@ -121,7 +116,7 @@ Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926
 
 ![Bild5](../Img/isochrones.png)
 
-## 5. Resultat
+## 4. Resultat
 
 ### Haupterkenntnisse
 
