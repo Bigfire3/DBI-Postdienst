@@ -1,3 +1,9 @@
+<!--
+Gewerbepark.withStyle: <iframe src="https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html" style=@0></iframe>
+
+-->
+
+
 # Machbarkeitsstudie zur Automatisierung des Postdienstes auf dem Gelände der DBI
 
 ![Übersicht DBI](../Img/Uebersicht-DBI.jpeg "Karte DBI inklusive ansässiger Firmen")
@@ -103,7 +109,9 @@
 
 Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme.
 
-??[Bild1](../Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html)
+```
+@Gewerbepark.withStyle
+```
 
 ![Bild2](../Img/Routing_to_all_entrances.png "Kürzeste Routen zu allen Eingängen")
 
