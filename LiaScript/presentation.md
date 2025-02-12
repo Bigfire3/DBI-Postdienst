@@ -108,13 +108,14 @@ Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme
 ![Bild2](../Img/Routing_to_all_entrances.png "Kürzeste Routen zu allen Eingängen")
 
 ![Bild3](../Img/Routing_to_all_accesible_entrances.png "Kürzeste Routen zu allen erreichbaren Eingängen")
-Total distance: 1701.9393416177559 meters without TSP
+
+- Total distance: 1701.9393416177559 meters without TSP
 
 ![Bild4](../Img/Optimized_TSP.png "Kürzeste Routen zu den bereits Verfügbaren Eingängen")
 
-Total distance: 1483.14 meters 
-Travel Time : 14.831437280396823 minutes with TSP 
-Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926744, 12545926730, 12545926741, 12545926731, 3989756446]
+- Total distance: 1483.14 meters
+- Travel Time : 14.831437280396823 minutes with TSP
+- Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926744, 12545926730, 12545926741, 12545926731, 3989756446]
 
 ![Bild5](../Img/isochrones.png "Erreichbarkeit in 30s Abständen von der Poststelle")
 
