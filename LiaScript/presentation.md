@@ -100,7 +100,12 @@ Work in Progress
 * Genaue Position der Eingänge 
 * Zugänglichkeit der Eingängeund eventuelle Hindernisse wie Zäune 
 
-    -> Eintragung dieser Daten in OSM und festhalten durch Bilder 
+    -> Eintragung dieser Daten in OSM und festhalten durch Bilder
+
+<figure>
+  <img src="Img/Teilobjekt-7a-unten.jpg" alt="Zugang TO 7a unten" />
+  <figcaption>Bordsteing am Eingang des Teilobjektes 7a (unten).</figcaption>
+</figure>
 
 ## 4. Datenauswertung
 
