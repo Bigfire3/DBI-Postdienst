@@ -7,7 +7,9 @@ Gewerbepark.withStyle: <iframe src="[https://github.com/Bigfire3/DBI-Postdienst/
 
 # Machbarkeitsstudie zur Automatisierung des Postdienstes auf dem Gelände der DBI
 
-![Übersicht DBI](../Img/Uebersicht-DBI.jpeg "Karte DBI inklusive ansässiger Firmen")
+<!--"Karte DBI inklusive ansässiger Firmen"-->
+<img src="../Img/Uebersicht-DBI.jpeg" width="900" height="600">
+
 
 ---
 
@@ -101,8 +103,8 @@ Gewerbepark.withStyle: <iframe src="[https://github.com/Bigfire3/DBI-Postdienst/
 * Zugänglichkeit der Eingänge und eventuelle Hindernisse wie Zäune 
 
     -> Eintragung dieser Daten in OSM und festhalten durch Bilder
-
-![Zugang TO 7a unten](../Img/Zugang-Teilobjekt-7a-unten.jpg "Bordstein am Eingang des Teilobjektes 7a (unten).")
+<!-- "Bordstein am Eingang des Teilobjektes 7a (unten)." -->
+<img src="../Img/Zugang-Teilobjekt-7a-unten.jpg" width="800" height="800">
 
 ## 3. Datenauswertung
 
@@ -114,19 +116,23 @@ Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme
 
 @Gewerbepark
 
-![Bild2](../Img/Routing_to_all_entrances.png "Kürzeste Routen zu allen Eingängen")
+<!-- "Kürzeste Routen zu allen Eingängen" -->
+<img src="../Img/Routing_to_all_entrances.png" width="800" height="800">
 
-![Bild3](../Img/Routing_to_all_accesible_entrances.png "Kürzeste Routen zu allen erreichbaren Eingängen")
-
+<!-- "Kürzeste Routen zu allen erreichbaren Eingängen" -->
+<img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
 - Total distance: 1701.9393416177559 meters without TSP
 
-![Bild4](../Img/Optimized_TSP.png "Kürzeste Routen zu den bereits Verfügbaren Eingängen")
+<!--"Kürzeste Routen zu den bereits Verfügbaren Eingängen" -->
+<img src="../Img/Optimized_TSP.png" width="800" height="800">
+
 
 - Total distance: 1483.14 meters
 - Travel Time : 14.831437280396823 minutes with TSP
 - Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926744, 12545926730, 12545926741, 12545926731, 3989756446]
 
-![Bild5](../Img/isochrones.png "Erreichbarkeit in 30s Abständen von der Poststelle")
+<!--"Erreichbarkeit in 30s Abständen von der Poststelle"-->
+<img src="../Img/isochrones.png" width="800" height="800">
 
 ## 4. Resultat
 
