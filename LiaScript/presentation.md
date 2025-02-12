@@ -169,14 +169,16 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 
 ## 4. Resultat
 
-### Haupterkenntnisse
+**Haupterkenntnisse**
 
 * 19 neu gemappte Eingänge
 * 7 davon mit Roboter erreichbar
 * 12 durch hinzufügen von Rampen o.Ä. erreichbar
 * Modifikation für sichere Abgabe bei Eingängen nötig 
 
-### Fazit
+---
+
+**Fazit**
 
 Die Instandsetzung eines automatisierten Postdienstes im DBI Freiberg ist möglich, jedoch bedarf es vorher der Installation einiger Rampen um alle Eingänge erreichen zu können. Zusätzlich Besteht die Problematik eine sichere Abgabe der Post zu gewährleisten, was Augrund der geringen Eingangsanzahl einfacher als in einer ländlichen Umgebung ist.
 
