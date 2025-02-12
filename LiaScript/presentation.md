@@ -98,10 +98,7 @@
 
     -> Eintragung dieser Daten in OSM und festhalten durch Bilder
 
-<figure>
-  <img src="https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Zugang-Teilobjekt-7a-unten.jpg" alt="Zugang TO 7a unten" />
-  <figcaption>Bordsteing am Eingang des Teilobjektes 7a (unten).</figcaption>
-</figure>
+![Zugang TO 7a unten](https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Zugang-Teilobjekt-7a-unten.jpg "Bordsteing am Eingang des Teilobjektes 7a (unten).")
 
 ## 4. Datenauswertung
 
