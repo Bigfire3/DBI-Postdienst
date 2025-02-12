@@ -67,7 +67,7 @@ ox.plot_graph_routes(G, routes, route_colors="y", route_linewidth=2, node_size=0
 # desciption of the plot
 
 
-fig.suptitle("Routing zu allen Eingängen", fontsize=20,color = "black")
+fig.suptitle("Routing zu allen Eingängen", fontsize=20,color = "white")
 fig.tight_layout()
 
 #save as png
@@ -112,7 +112,7 @@ fig, ax = ox.plot_graph(G, show=False, close=False, node_size=0)
 # Plot all routes
 ox.plot_graph_routes(G, routes, route_colors="y", route_linewidth=2, node_size=0, ax=ax, show = False, close = False)
 
-fig.suptitle("Routing zu allen erreichbaren Eingängen", fontsize=20,color = "black")
+fig.suptitle("Routing zu allen erreichbaren Eingängen", fontsize=20,color = "white")
 fig.tight_layout()
 
 
@@ -176,7 +176,7 @@ for i in range(len(tsp_path) - 1):  # Loop through pairs
 
 # Plot the optimized routes
 ox.plot_graph_routes(G, tsp_routes, route_colors="b", route_linewidth=2, node_size=0, ax=ax, show = False, close = False)
-fig.suptitle("Optimierte TSP Route", fontsize=20,color = "black")
+fig.suptitle("Optimierte TSP Route", fontsize=20,color = "white")
 fig.tight_layout()
 
 # total travel time with v= 6 km/h
@@ -248,7 +248,7 @@ ox.plot.plot_graph(
     edge_color="#999999",
     ax=ax,
 )
-fig.suptitle("Isochrone Darstellung", fontsize=20,color = "black")
+fig.suptitle("Isochrone Darstellung", fontsize=20,color = "white")
 fig.tight_layout()
 
 plt.show()
