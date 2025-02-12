@@ -133,7 +133,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 ---
 
 <figure>
-    <h3 style="color: blue; font-size: 20px;text-align: center">Kürzeste Routen zu allen erreichbaren Eingängen</h3>
+    <h3 style="color: blue; font-size: 20px;text-align: center;">Kürzeste Routen zu allen erreichbaren Eingängen</h3>
     <img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
 </figure>
 
