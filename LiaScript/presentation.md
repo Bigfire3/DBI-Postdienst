@@ -112,10 +112,6 @@ Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme
 
 `import: https://github.com/Bigfire3/DBI-Postdienst/edit/main/LiaScript/presentation.md `
 
-```
-@Gewerbepark
-
-```
 @Gewerbepark
 
 ![Bild2](../Img/Routing_to_all_entrances.png "Kürzeste Routen zu allen Eingängen")
