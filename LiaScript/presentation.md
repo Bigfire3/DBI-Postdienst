@@ -121,7 +121,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 @Gewerbepark
 
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Kürzeste Routen zu allen Eingängen**
 <figure>
     <img src="../Img/Routing_to_all_entrances.png" width="800" height="800">
     <figcaption>Kürzeste Routen zu allen Eingängen</figcaption>
