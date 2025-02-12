@@ -91,11 +91,11 @@
 **Aufgenommene Daten:**
 
 * Genaue Position der Eingänge 
-* Zugänglichkeit der Eingängeund eventuelle Hindernisse wie Zäune 
+* Zugänglichkeit der Eingänge und eventuelle Hindernisse wie Zäune 
 
     -> Eintragung dieser Daten in OSM und festhalten durch Bilder
 
-![Zugang TO 7a unten](../Img/Zugang-Teilobjekt-7a-unten.jpg "Bordsteing am Eingang des Teilobjektes 7a (unten).")
+![Zugang TO 7a unten](../Img/Zugang-Teilobjekt-7a-unten.jpg "Bordstein am Eingang des Teilobjektes 7a (unten).")
 
 ## 3. Datenauswertung
 
@@ -118,7 +118,7 @@ Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926
 
 ![Bild5](../Img/isochrones.png "Erreichbarkeit in 30s Abständen von der Poststelle")
 
-## 5. Resultat
+## 4. Resultat
 
 ### Haupterkenntnisse
 
