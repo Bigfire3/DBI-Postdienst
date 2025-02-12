@@ -103,7 +103,7 @@
 
 Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme.
 
-![Bild1](../Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html)
+??[Bild1](../Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html)
 
 ![Bild2](../Img/Routing_to_all_entrances.png "Kürzeste Routen zu allen Eingängen")
 
