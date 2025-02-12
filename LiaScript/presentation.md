@@ -113,14 +113,20 @@ Work in Progress
 
 Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme.
 
-![Bild1](https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Optimized_TSP.png?raw=true "Kürzeste Routen zu den bereits Verfügbaren Eingängen")
+![Bild1](../Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html)
 
-![Bild2](https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Routing_to_all_entrances.png?raw=true "Kürzeste Routen zu allen Eingängen")
+![Bild2](../Img/Routing_to_all_entrances.png "Kürzeste Routen zu allen Eingängen")
 
-Total distance: 1483.14 meters, Travel Time : 14.831437280396823 minutes with TSP 
+![Bild3](../Img/Routing_to_all_accesible_entrances.png)
+Total distance: 1701.9393416177559 meters without TSP
+
+![Bild4](../Img/Optimized_TSP.png "Kürzeste Routen zu den bereits Verfügbaren Eingängen")
+
+Total distance: 1483.14 meters 
+Travel Time : 14.831437280396823 minutes with TSP 
 Optimized TSP Path: [3989756446, 12545926734, 12545926742, 12545926745, 12545926744, 12545926730, 12545926741, 12545926731, 3989756446]
 
-Total distance: 1701.9393416177559 meters without TSP
+![Bild5](../Img/isochrones.png)
 
 ## 5. Resultat
 
