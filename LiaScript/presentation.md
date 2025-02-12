@@ -1,6 +1,6 @@
 <!--
 Gewerbepark: @Gewerbepark.withStyle("width: 100%; height: 600px; border: 0; overflow: hidden;")
-Gewerbepark.withStyle: <iframe src="https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html" style=@0></iframe>
+Gewerbepark.withStyle: <iframe src="[https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html](https://github.com/Bigfire3/DBI-Postdienst/blob/336a074e3e228249a36e6fa2edbdd9fbfbaaf8b8/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html)" style=@0></iframe>
 
 -->
 
