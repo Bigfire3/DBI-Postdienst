@@ -171,6 +171,10 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 
 ### Haupterkenntnisse
 
+* 19 neu gemappte Eingänge
+* 7 davon mit Roboter erreichbar
+* 12 durch hinzufügen von Rampen o.Ä. erreichbar
+* Modifikation für sichere Paketabgabe bei Eingängen nötig 
 
 ### Fazit
 
