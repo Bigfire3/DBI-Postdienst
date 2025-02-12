@@ -10,7 +10,7 @@
 
 ## 2. Planung
 
-### Methodik
+### Vorgehen
 
 **Zu erreichende Ziele:**
 
@@ -37,10 +37,6 @@
     * Konkretes Wissen wo Anpassung nötig ist 
 
     * Planbarkeit für weiteres Vorgehen
-
-### Zeitplan
-
-Work in Progress 
 
 ## 3. Datensammlung
 
