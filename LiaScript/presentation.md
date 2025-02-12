@@ -10,7 +10,7 @@
 
 ## 2. Planung
 
-### Vorgehen
+### Methodik
 
 **Zu erreichende Ziele:**
 
