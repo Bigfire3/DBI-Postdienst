@@ -121,10 +121,11 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 @Gewerbepark
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Kürzeste Routen zu allen Eingängen**
+
 <figure>
+   <h3 style="color: black; font-size: 20px;text-align: center;">Kürzeste Routen zu allen Eingängen</h3>
     <img src="../Img/Routing_to_all_entrances.png" width="800" height="800">
-    <figcaption>Kürzeste Routen zu allen Eingängen</figcaption>
+    
 </figure>
 
 
@@ -133,7 +134,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 ---
 
 <figure>
-    <h3 style="color: blue; font-size: 20px;text-align: center;">Kürzeste Routen zu allen erreichbaren Eingängen</h3>
+    <h3 style="color: black; font-size: 20px;text-align: center;">Kürzeste Routen zu allen erreichbaren Eingängen</h3>
     <img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
 </figure>
 
@@ -144,8 +145,9 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 ---
 
 <figure>
+   <h3 style="color: black; font-size: 20px;text-align: center;">Kürzeste Route über alle erreichbaren Eingängen</h3>
     <img src="../Img/Optimized_TSP.png" width="800" height="800">
-    <figcaption>Kürzeste Route über alle erreichbaren Eingängen</figcaption>
+    
 </figure>
 
 
@@ -156,8 +158,9 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 ---
 
 <figure>
+   <h3 style="color: black; font-size: 20px;text-align: center;">Erreichbarkeit in 30s Abständen von der Poststelle</h3>
     <img src="../Img/isochrones.png" width="800" height="800">
-    <figcaption>Erreichbarkeit in 30s Abständen von der Poststelle</figcaption>
+    
 </figure>
 
 ## 4. Resultat
