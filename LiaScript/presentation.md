@@ -46,6 +46,12 @@
 
 ## 2. Datensammlung
 
+<figure>
+   <h3 style="color: black; font-size: 20px;text-align: center;">Ausarbeiten der Methoden zum Vorgehen</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OSM_Logo.svg/1200px-OSM_Logo.svg.png" width="800" height="800">
+    
+</figure>
+
 ### Interviews 
 
 **Aktueller Prozess:**
