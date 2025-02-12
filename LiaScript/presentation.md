@@ -1,6 +1,6 @@
 <!--
 Gewerbepark: @Gewerbepark.withStyle("width: 100%; height: 600px; border: 0; overflow: hidden;")
-Gewerbepark.withStyle: <iframe src="https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html" style=@0></iframe>
+Gewerbepark.withStyle: <iframe src="../Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html" style=@0></iframe>
 
 -->
 
@@ -111,9 +111,13 @@ Gewerbepark.withStyle: <iframe src="https://github.com/Bigfire3/DBI-Postdienst/b
 Erstellung von Grafiken und Karten zur Visalisierung und Auswertung der Probleme.
 
 `import: https://github.com/Bigfire3/DBI-Postdienst/edit/main/LiaScript/presentation.md `
+
 ```
+
 @Gewerbepark
-@Gewerbepark.withStyle
+
+
+@Gewerbepark.withStyle("width: 50%; height: 600px;")
 ```
 
 ![Bild2](../Img/Routing_to_all_entrances.png "Kürzeste Routen zu allen Eingängen")
