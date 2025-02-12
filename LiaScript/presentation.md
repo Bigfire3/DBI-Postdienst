@@ -111,8 +111,13 @@ Open Street Map (OSM) ist ein freies gemeinschaftliches Kartenprojekt. Jeder kan
 * Zugänglichkeit der Eingänge und eventuelle Hindernisse wie Zäune 
 
     -> Eintragung dieser Daten in OSM und festhalten durch Bilder
-<!-- "Bordstein am Eingang des Teilobjektes 7a (unten)." -->
-<img src="../Img/Zugang-Teilobjekt-7a-unten.jpg" width="800" height="800">
+
+
+<figure>
+   <h3 style="color: black; font-size: 20px;text-align: left;">Bordstein am Eingang des Teilobjektes 7a (unten).</h3>
+    <img src="../Img/Zugang-Teilobjekt-7a-unten.jpg" width="800" height="800">
+    
+</figure>
 
 ## 3. Datenauswertung
 
