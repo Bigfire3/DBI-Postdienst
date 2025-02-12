@@ -1,13 +1,13 @@
 <!--
 Gewerbepark: @Gewerbepark.withStyle("width: 100%; height: 600px; border: 0; overflow: hidden;")
-Gewerbepark.withStyle: <iframe src="[https://github.com/Bigfire3/DBI-Postdienst/blob/main/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html](https://github.com/Bigfire3/DBI-Postdienst/blob/336a074e3e228249a36e6fa2edbdd9fbfbaaf8b8/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html)" style=@0></iframe>
+Gewerbepark.withStyle: <iframe src=""https://Bigfire3.github.io/DB-Postdienst/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html" style=@0></iframe>
 
 -->
 
 
 # Machbarkeitsstudie zur Automatisierung des Postdienstes auf dem Gelände der DBI
 
-<!--"Karte DBI inklusive ansässiger Firmen"-->
+
 <img src="../Img/Uebersicht-DBI.jpeg" width="900" height="600">
 
 
@@ -112,7 +112,7 @@ Gewerbepark.withStyle: <iframe src="[https://github.com/Bigfire3/DBI-Postdienst/
 
 Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 
-`import: https://github.com/Bigfire3/DBI-Postdienst/edit/main/LiaScript/presentation.md`
+`import: https://github.com/Bigfire3/DBI-Postdienst/blob/main/LiaScript/presentation.md`
 
 ```
 @Gewerbepark
@@ -120,7 +120,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 ```
 @Gewerbepark
 
-<!-- "Kürzeste Routen zu allen Eingängen" -->
+
 
 <figure>
     <img src="../Img/Routing_to_all_entrances.png" width="800" height="800">
@@ -131,10 +131,10 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 * Routing zu allen neu gemappten Eingängen 
 
 ---
-<!-- "Kürzeste Routen zu allen erreichbaren Eingängen" -->
+
 <figure>
+    <h3 style="color: blue; font-size: 20px;">Kürzeste Routen zu allen erreichbaren Eingängen</h3>
     <img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
-    <figcaption>Kürzeste Routen zu allen erreichbaren Eingängen</figcaption>
 </figure>
 
 
@@ -142,7 +142,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 * insgesamte Weglänge: 1702 Meter
 
 ---
-<!--"Kürzeste Routen zu den bereits Verfügbaren Eingängen" -->
+
 <figure>
     <img src="../Img/Optimized_TSP.png" width="800" height="800">
     <figcaption>Kürzeste Route über alle erreichbaren Eingängen</figcaption>
@@ -154,7 +154,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 * Benötigte Zeit (mit 6 km/h): 15 Minuten
 
 ---
-<!--"Erreichbarkeit in 30s Abständen von der Poststelle"-->
+
 <figure>
     <img src="../Img/isochrones.png" width="800" height="800">
     <figcaption>Erreichbarkeit in 30s Abständen von der Poststelle</figcaption>
