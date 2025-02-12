@@ -121,28 +121,42 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 @Gewerbepark
 
 <!-- "Kürzeste Routen zu allen Eingängen" -->
-![Kürzeste Routen zu allen Eingängen]<img src="../Img/Routing_to_all_entrances.png" width="800" height="800">
+
+<figure>
+    <img src="../Img/Routing_to_all_entrances.png" width="800" height="800">
+    <figcaption>Kürzeste Routen zu allen Eingängen</figcaption>
+</figure>
 
 * Routing zu allen neu gemappten Eingängen 
 
 ---
 <!-- "Kürzeste Routen zu allen erreichbaren Eingängen" -->
-![Kürzeste Routen zu allen erreichbaren Eingängen]<img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
+<figure>
+    <img src="../Img/Routing_to_all_accesible_entrances.png" width="800" height="800">
+    <figcaption>Kürzeste Routen zu allen erreichbaren Eingängen</figcaption>
+</figure>
 
 * kürzesten Wege von Poststation zu allen barrierefreien Eingängen
 * insgesamte Weglänge: 1702 Meter
 
 ---
 <!--"Kürzeste Routen zu den bereits Verfügbaren Eingängen" -->
-![Kürzeste Routen zu allen erreichbaren Eingängn]<img src="../Img/Optimized_TSP.png" width="800" height="800">
+<figure>
+    <img src="../Img/Optimized_TSP.png" width="800" height="800">
+    <figcaption>Kürzeste Route über alle erreichbaren Eingängen</figcaption>
+</figure>
 
-* kürzeste Route mit allen erreichbaren Eingängen 
+* kürzeste Route mit allen barrierefreien Eingängen 
 * Weglänge: 1483 Meter
 * Benötigte Zeit (mit 6 km/h): 15 Minuten
 
 ---
 <!--"Erreichbarkeit in 30s Abständen von der Poststelle"-->
-![Erreichbarkeit in 30s Abständen von der Poststelle]<img src="../Img/isochrones.png" width="800" height="800">
+<img src="../Img/isochrones.png" width="800" height="800">
+<figure>
+    <img src="../Img/isochrones.png" width="800" height="800">
+    <figcaption>Erreichbarkeit in 30s Abständen von der Poststelle</figcaption>
+</figure>
 
 ## 4. Resultat
 
