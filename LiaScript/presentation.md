@@ -178,7 +178,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 
 ### Fazit
 
-* 
+Die Instandsetzung eines automatisierten Postdienstes im DBI Freiberg ist möglich, jedoch bedarf es vorher der Installation einiger Rampen um alle Eingänge erreichen zu können. Zusätzlich Besteht die Problematik eine sichere Abgabe der Post zu gewährleisten, was Augrund der geringen Eingangsanzahl einfacher als in einer ländlichen Umgebung ist.
 
 ## Vielen Dank für Ihre Aufmerksamkeit!
 
