@@ -1,6 +1,6 @@
 # Machbarkeitsstudie zur Automatisierung des Postdienstes auf dem Gelände der DBI
 
-![Übersicht DBI](../Img/Uebersicht-DBI.jpeg "Karte DBI mit inklusive ansässiger Firmen")
+![Übersicht DBI](../Img/Uebersicht-DBI.jpeg "Karte DBI inklusive ansässiger Firmen")
 
 ---
 
