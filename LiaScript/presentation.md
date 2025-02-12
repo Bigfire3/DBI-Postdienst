@@ -103,7 +103,7 @@ Work in Progress
     -> Eintragung dieser Daten in OSM und festhalten durch Bilder
 
 <figure>
-  <img src="Img/Teilobjekt-7a-unten.jpg" alt="Zugang TO 7a unten" />
+  <img src="Img//Zugang-Teilobjekt-7a-unten.jpg" alt="Zugang TO 7a unten" />
   <figcaption>Bordsteing am Eingang des Teilobjektes 7a (unten).</figcaption>
 </figure>
 
