@@ -1,9 +1,3 @@
-<!--
-Gewerbepark: @Gewerbepark.withStyle("width: 100%; height: 600px; border: 0; overflow: hidden;")
-Gewerbepark.withStyle: <iframe src=""https://Bigfire3.github.io/DB-Postdienst/Img/Gewerbepark%20Deutsches%20Brennstoffinstitut.html" style=@0></iframe>
-
--->
-
 
 # Machbarkeitsstudie zur Automatisierung des Postdienstes auf dem Gelände der DBI
 
@@ -111,15 +105,6 @@ Gewerbepark.withStyle: <iframe src=""https://Bigfire3.github.io/DB-Postdienst/Im
 **Auswertung der in OSM eingetragenen Daten mittels bereitgestellten Python Packages**
 
 Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
-
-`import: https://github.com/Bigfire3/DBI-Postdienst/blob/main/LiaScript/presentation.md`
-
-```
-@Gewerbepark
-
-```
-@Gewerbepark
-
 
 
 <figure>
