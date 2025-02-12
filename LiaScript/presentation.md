@@ -38,10 +38,6 @@
 
     * Planbarkeit für weiteres Vorgehen
 
-### Zeitplan
-
-Work in Progress 
-
 ## 3. Datensammlung
 
 ### Interviews 
