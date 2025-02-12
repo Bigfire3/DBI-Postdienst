@@ -11,7 +11,7 @@
 ## 1. Planung
 
 <figure>
-   <h3 style="color: black; font-size: 20px;text-align: center;">Ausarbeiten der Methoden zum Vorgehen</h3>
+   <h3 style="color: black; font-size: 20px;text-align: left;">Ausarbeiten der Methoden zum Vorgehen</h3>
     <img src="https://architektur-wispler.de/wp-content/uploads/2014/09/Planung.jpg" width="800" height="800">
     
 </figure>
@@ -47,10 +47,12 @@
 ## 2. Datensammlung
 
 <figure>
-   <h3 style="color: black; font-size: 20px;text-align: center;">Ausarbeiten der Methoden zum Vorgehen</h3>
+   <h3 style="color: black; font-size: 20px;text-align: left;">Eingabe und Auswertung der Daten mittels OSM</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OSM_Logo.svg/1200px-OSM_Logo.svg.png" width="800" height="800">
     
 </figure>
+
+Open Street Map (OSM) ist ein freies gemeinschaftliches Kartenprojekt. Jeder kann dabei Daten hinzufügen und Objekte ergänze und später diese Daten mittels Software auslesen. 
 
 ### Interviews 
 
