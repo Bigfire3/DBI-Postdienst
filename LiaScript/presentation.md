@@ -91,7 +91,7 @@ Open Street Map (OSM) ist ein freies gemeinschaftliches Kartenprojekt. Jeder kan
 
 ---
 
-**Frage der autonomen Lieferbarkeit muss durch OMS Daten erfolgen**
+**Frage der autonomen Lieferbarkeit muss durch OSM Daten erfolgen**
 
 ### Dateneingabe in OSM
 
