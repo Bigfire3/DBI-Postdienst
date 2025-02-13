@@ -78,22 +78,22 @@ Open Street Map (OSM) ist ein freies gemeinschaftliches Kartenprojekt. Jeder kan
 
 **Änderungen:**
 
-* Roboter kann nicht von Hand beladen werden (zu Zeitaufwenig)
+- Roboter kann nicht von Hand beladen werden (zu Zeitaufwenig)
 
-    * Automatisierte Beladung des Roboters
-    * unklar in Umsetztbarkeit 
+    - Automatisierte Beladung des Roboters
+    - unklar in Umsetztbarkeit 
 
-* Mitarbeiter können nicht auf Roboter warten (ineffizient)
+- Mitarbeiter können nicht auf Roboter warten (ineffizient)
 
-    * Abladeboxen vor jeder Firma nötig 
-    * Roboter entlädt Post in jeweilige Box 
-    * Automatischer Verschluss (Diebstahlschutz)
+  - Abladeboxen vor jeder Firma nötig
+  - Roboter entlädt Post in jeweilige Box
+  - Automatischer Verschluss (Diebstahlschutz)
 
 ---
 
 **Frage der autonomen Lieferbarkeit muss durch OMS Daten erfolgen**
 
-### Dateneingabe in OMS
+### Dateneingabe in OSM
 
 **Randbedingungen für den Roboter:**
 
