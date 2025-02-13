@@ -145,6 +145,7 @@ Erstellung von Grafiken mit OSMnx zur Visalisierung und Auswertung der Daten.
 
 * kürzesten Wege von Poststation zu allen barrierefreien Eingängen
 * insgesamte Weglänge: 1702 Meter
+* Benötigte Zeit (mit 6 km/h): 17 min 
 
 ---
 
